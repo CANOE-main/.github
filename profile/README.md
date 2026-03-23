@@ -1,0 +1,9 @@
+## Welcome to the CANOE project! 
+
+We utilize the Temoa framework to investigate decarbonization and policy strategies for Canada. 
+
+To access the dataset please visit: [CANOE dataset](https://zenodo.org/records/18435395)
+
+To access the documentation: [CANOE Docuemtentation](https://canoe-main.github.io/CANOE/)
+
+To view the people involved in the project, please visit: [CANOE group](https://sustainablesystems.civmin.utoronto.ca/canadian-open-energy-canoe-model/)
